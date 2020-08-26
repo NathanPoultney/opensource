@@ -1,7 +1,5 @@
 <?php
-    ini_set("display_errors","1");
     error_reporting(E_ALL);
-    define("EXEC",TRUE);
     include_once("statistics.class.php");
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
